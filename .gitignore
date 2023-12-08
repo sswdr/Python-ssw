@@ -1,0 +1,5 @@
+# Project exclude paths
+# /.venv/
+/Python-ssw.iml
+/target/
+/.idea/
